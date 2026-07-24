@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.3.0] - 2026-07-24
+
+### Geändert
+- `plugins.json` komplett aktualisiert (UTF-8, Release-URLs, Manager zuerst)
+- README-Übersichtstabelle mit Release-Links
+
 ## [1.2.1] - 2026-07-24
 
 ### Geändert
