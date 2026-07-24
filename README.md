@@ -7,6 +7,15 @@
 - **Live:** [www.sellermax.de](https://www.sellermax.de)
 - **Demo:** Eine Demo kann auf Anfrage bereitgestellt werden.
 
+## Compiler / ZIP-Builds
+
+Im Ordner [`Compiler/`](./Compiler/) liegt der **Shopware Plugin Builder ENTERPRISE** zum Erzeugen uploadfähiger Plugin-ZIPs.
+
+- Anleitung (Windows, macOS, Linux): [`Compiler/README.md`](./Compiler/README.md)
+- Voraussetzung: **Docker** mit Image `shopware/shopware-cli` (unter Windows Pflicht; natives shopware-cli ist dort nicht verfügbar)
+
+Fertige Release-ZIPs werden als **GitHub Releases** in den jeweiligen Plugin-Repos veröffentlicht.
+
 ## Plugin-Übersicht
 
 | Plugin | Version | Kurzbeschreibung | Repository |
