@@ -80,9 +80,9 @@
     {
       "name": "SellermaxProductLabels",
       "composer": "sellermax/product-labels",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "repository": "https://github.com/teris/SellermaxProductLabels",
-      "release": "https://github.com/teris/SellermaxProductLabels/releases/tag/v1.0.1"
+      "release": "https://github.com/teris/SellermaxProductLabels/releases/tag/v1.0.2"
     }
   ]
 }
