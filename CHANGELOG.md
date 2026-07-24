@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.1] - 2026-07-24
+
+### Geändert
+- `SellermaxGithubPlugins` Katalog-Version auf 1.0.3
+
+## [1.2.0] - 2026-07-24
+
+### Hinzugefügt
+- Eintrag `SellermaxGithubPlugins` in Katalog und README
+
 ## [1.1.0] - 2026-07-24
 
 ### Hinzugefügt

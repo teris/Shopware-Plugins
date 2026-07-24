@@ -58,6 +58,12 @@
       "composer": "sellermax/subscription",
       "version": "1.2.2",
       "repository": "https://github.com/teris/SellermaxSubscription"
+    },
+    {
+      "name": "SellermaxGithubPlugins",
+      "composer": "sellermax/github-plugins",
+      "version": "1.0.3",
+      "repository": "https://github.com/teris/SellermaxGithubPlugins"
     }
   ]
 }

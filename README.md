@@ -29,6 +29,7 @@ Fertige Release-ZIPs werden als **GitHub Releases** in den jeweiligen Plugin-Rep
 | [Sellermax Product Downloads](#sellermax-product-downloads) | 1.7.7 | PDF-/Medien-Downloads pro Produkt | [Repo](https://github.com/teris/SellermaxProductDownloads) |
 | [Sellermax Form Builder](#sellermax-form-builder) | 1.3.6 | Formulare mit Flow-Builder-Anbindung | [Repo](https://github.com/teris/SellermaxFormBuilder) |
 | [Sellermax Subscription](#sellermax-subscription) | 1.2.2 | Abo-Pläne & Wiederholungsbestellungen | [Repo](https://github.com/teris/SellermaxSubscription) |
+| [Sellermax GitHub Plugin Manager](#sellermax-github-plugin-manager) | 1.0.3 | Plugins aus GitHub im Admin installieren/updaten | [Repo](https://github.com/teris/SellermaxGithubPlugins) |
 
 ---
 
@@ -151,13 +152,27 @@ Produkt-Abonnements mit Plänen, Folgeorders, Reminder-Mails, Kundenkonto-Verwal
 
 ---
 
+### Sellermax GitHub Plugin Manager
+
+Admin-Oberfläche zum Installieren, Aktivieren, Deaktivieren und Aktualisieren der Sellermax-Plugins aus GitHub Releases (ohne Shopware Store). Einmal manuell installieren; danach Verwaltung der übrigen Plugins über die UI.
+
+| | |
+|---|---|
+| Composer | `sellermax/github-plugins` |
+| Shopware | `~6.7.0` |
+| Abhängigkeiten | `shopware/core`, `shopware/administration`, `symfony/process`, PHP `curl`/`zip` |
+| Repo | https://github.com/teris/SellermaxGithubPlugins |
+
+---
+
 ## Empfohlene Installationsreihenfolge (Auszug)
 
-1. `SellermaxInfiniteScroll`
-2. `SellermaxOptimizeListing` (hängt von Infinite Scroll ab)
-3. Weitere Storefront-/Listing-Plugins nach Bedarf
-4. `SellermaxProductCustomTabs` vor bzw. zusammen mit `SellermaxProductDownloads` (empfohlen)
-5. `SellermaxSubscription` inkl. Worker/Cron
+1. `SellermaxGithubPlugins` (manuell) – danach weitere Plugins über die Admin-UI
+2. `SellermaxInfiniteScroll`
+3. `SellermaxOptimizeListing` (hängt von Infinite Scroll ab)
+4. Weitere Storefront-/Listing-Plugins nach Bedarf
+5. `SellermaxProductCustomTabs` vor bzw. zusammen mit `SellermaxProductDownloads` (empfohlen)
+6. `SellermaxSubscription` inkl. Worker/Cron
 
 Details und Konfiguration stehen in den jeweiligen Plugin-READMEs.
 
