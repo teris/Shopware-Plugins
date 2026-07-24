@@ -1,0 +1,63 @@
+{
+  "name": "Shopware Plugins",
+  "description": "Übersicht der Sellermax Shopware 6 Plugins",
+  "live": "https://www.sellermax.de",
+  "copyright": "Orga Consult – in Teamarbeit mit Seller Max GmbH",
+  "plugins": [
+    {
+      "name": "SellermaxInfiniteScroll",
+      "composer": "sellermax/infinite-scroll",
+      "version": "0.2.2",
+      "repository": "https://github.com/teris/SellermaxInfiniteScroll"
+    },
+    {
+      "name": "SellermaxOptimizeListing",
+      "composer": "sellermax/optimize-listing",
+      "version": "1.0.7",
+      "repository": "https://github.com/teris/SellermaxOptimizeListing",
+      "requires": ["sellermax/infinite-scroll"]
+    },
+    {
+      "name": "SellermaxCustomNavigation",
+      "composer": "sellermax/custom-navigation",
+      "version": "1.1.4",
+      "repository": "https://github.com/teris/SellermaxCustomNavigation"
+    },
+    {
+      "name": "SellermaxListingQuickBuy",
+      "composer": "sellermax/listing-quick-buy",
+      "version": "1.3.4",
+      "repository": "https://github.com/teris/SellermaxListingQuickBuy"
+    },
+    {
+      "name": "SellermaxCrossSellingEnhance",
+      "composer": "sellermax/cross-selling-enhance",
+      "version": "1.2.2",
+      "repository": "https://github.com/teris/SellermaxCrossSellingEnhance"
+    },
+    {
+      "name": "SellermaxProductCustomTabs",
+      "composer": "sellermax/product-custom-tabs",
+      "version": "1.1.5",
+      "repository": "https://github.com/teris/SellermaxProductCustomTabs"
+    },
+    {
+      "name": "SellermaxProductDownloads",
+      "composer": "sellermax/product-downloads",
+      "version": "1.7.7",
+      "repository": "https://github.com/teris/SellermaxProductDownloads"
+    },
+    {
+      "name": "SellermaxFormBuilder",
+      "composer": "sellermax/form-builder",
+      "version": "1.3.6",
+      "repository": "https://github.com/teris/SellermaxFormBuilder"
+    },
+    {
+      "name": "SellermaxSubscription",
+      "composer": "sellermax/subscription",
+      "version": "1.2.2",
+      "repository": "https://github.com/teris/SellermaxSubscription"
+    }
+  ]
+}
