@@ -87,9 +87,9 @@
     {
       "name": "SellermaxTheme",
       "composer": "sellermax/theme",
-      "version": "1.5.2",
+      "version": "1.5.4",
       "repository": "https://github.com/teris/SellermaxTheme",
-      "release": "https://github.com/teris/SellermaxTheme/releases/tag/v1.5.2",
+      "release": "https://github.com/teris/SellermaxTheme/releases/tag/v1.5.4",
       "note": "Storefront-Theme – nach Installation dem Verkaufskanal zuweisen und theme:compile"
     }
   ]
