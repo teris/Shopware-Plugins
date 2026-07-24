@@ -18,18 +18,18 @@ Fertige Release-ZIPs werden als **GitHub Releases** in den jeweiligen Plugin-Rep
 
 ## Plugin-Übersicht
 
-| Plugin | Version | Kurzbeschreibung | Repository |
-|--------|---------|------------------|------------|
-| [Sellermax Infinite Scroll](#sellermax-infinite-scroll) | 0.2.2 | Infinite Scroll für Kategorie-Listings | [Repo](https://github.com/teris/SellermaxInfiniteScroll) |
-| [Sellermax Optimize Listing](#sellermax-optimize-listing) | 1.0.7 | Kategoriebaum- & Filter-Optimierung | [Repo](https://github.com/teris/SellermaxOptimizeListing) |
-| [Sellermax Custom Navigation](#sellermax-custom-navigation) | 1.1.4 | Konfigurierbare zweite Header-Navigation | [Repo](https://github.com/teris/SellermaxCustomNavigation) |
-| [Sellermax Listing Quick Buy](#sellermax-listing-quick-buy) | 1.3.4 | Direktkauf, Staffelpreise, Lageranzeige | [Repo](https://github.com/teris/SellermaxListingQuickBuy) |
-| [Sellermax Cross-Selling Enhance](#sellermax-cross-selling-enhance) | 1.2.2 | Cross-Selling Design & Animationen | [Repo](https://github.com/teris/SellermaxCrossSellingEnhance) |
-| [Sellermax Product Custom Tabs](#sellermax-product-custom-tabs) | 1.1.5 | Produkt-Tabs aus Zusatzfeldern | [Repo](https://github.com/teris/SellermaxProductCustomTabs) |
-| [Sellermax Product Downloads](#sellermax-product-downloads) | 1.7.7 | PDF-/Medien-Downloads pro Produkt | [Repo](https://github.com/teris/SellermaxProductDownloads) |
-| [Sellermax Form Builder](#sellermax-form-builder) | 1.3.6 | Formulare mit Flow-Builder-Anbindung | [Repo](https://github.com/teris/SellermaxFormBuilder) |
-| [Sellermax Subscription](#sellermax-subscription) | 1.2.2 | Abo-Pläne & Wiederholungsbestellungen | [Repo](https://github.com/teris/SellermaxSubscription) |
-| [Sellermax GitHub Plugin Manager](#sellermax-github-plugin-manager) | 1.0.3 | Plugins aus GitHub im Admin installieren/updaten | [Repo](https://github.com/teris/SellermaxGithubPlugins) |
+| Plugin | Version | Kurzbeschreibung | Repository | Release |
+|--------|---------|------------------|------------|---------|
+| [Sellermax GitHub Plugin Manager](#sellermax-github-plugin-manager) | 1.0.3 | Plugins aus GitHub im Admin installieren/updaten | [Repo](https://github.com/teris/SellermaxGithubPlugins) | [v1.0.3](https://github.com/teris/SellermaxGithubPlugins/releases/tag/v1.0.3) |
+| [Sellermax Infinite Scroll](#sellermax-infinite-scroll) | 0.2.2 | Infinite Scroll für Kategorie-Listings | [Repo](https://github.com/teris/SellermaxInfiniteScroll) | [v0.2.2](https://github.com/teris/SellermaxInfiniteScroll/releases/tag/v0.2.2) |
+| [Sellermax Optimize Listing](#sellermax-optimize-listing) | 1.0.7 | Kategoriebaum- & Filter-Optimierung | [Repo](https://github.com/teris/SellermaxOptimizeListing) | [v1.0.7](https://github.com/teris/SellermaxOptimizeListing/releases/tag/v1.0.7) |
+| [Sellermax Custom Navigation](#sellermax-custom-navigation) | 1.1.4 | Konfigurierbare zweite Header-Navigation | [Repo](https://github.com/teris/SellermaxCustomNavigation) | [v1.1.4](https://github.com/teris/SellermaxCustomNavigation/releases/tag/v1.1.4) |
+| [Sellermax Listing Quick Buy](#sellermax-listing-quick-buy) | 1.3.4 | Direktkauf, Staffelpreise, Lageranzeige | [Repo](https://github.com/teris/SellermaxListingQuickBuy) | [v1.3.4](https://github.com/teris/SellermaxListingQuickBuy/releases/tag/v1.3.4) |
+| [Sellermax Cross-Selling Enhance](#sellermax-cross-selling-enhance) | 1.2.2 | Cross-Selling Design & Animationen | [Repo](https://github.com/teris/SellermaxCrossSellingEnhance) | [v1.2.2](https://github.com/teris/SellermaxCrossSellingEnhance/releases/tag/v1.2.2) |
+| [Sellermax Product Custom Tabs](#sellermax-product-custom-tabs) | 1.1.5 | Produkt-Tabs aus Zusatzfeldern | [Repo](https://github.com/teris/SellermaxProductCustomTabs) | [v1.1.5](https://github.com/teris/SellermaxProductCustomTabs/releases/tag/v1.1.5) |
+| [Sellermax Product Downloads](#sellermax-product-downloads) | 1.7.7 | PDF-/Medien-Downloads pro Produkt | [Repo](https://github.com/teris/SellermaxProductDownloads) | [v1.7.7](https://github.com/teris/SellermaxProductDownloads/releases/tag/v1.7.7) |
+| [Sellermax Form Builder](#sellermax-form-builder) | 1.3.6 | Formulare mit Flow-Builder-Anbindung | [Repo](https://github.com/teris/SellermaxFormBuilder) | [v1.3.6](https://github.com/teris/SellermaxFormBuilder/releases/tag/v1.3.6) |
+| [Sellermax Subscription](#sellermax-subscription) | 1.2.2 | Abo-Pläne & Wiederholungsbestellungen | [Repo](https://github.com/teris/SellermaxSubscription) | [v1.2.2](https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.2) |
 
 ---
 
