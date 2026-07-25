@@ -29,7 +29,7 @@ Fertige Release-ZIPs werden als **GitHub Releases** in den jeweiligen Plugin-Rep
 | [Sellermax Product Custom Tabs](#sellermax-product-custom-tabs) | 1.1.5 | Produkt-Tabs aus Zusatzfeldern | [Repo](https://github.com/teris/SellermaxProductCustomTabs) | [v1.1.5](https://github.com/teris/SellermaxProductCustomTabs/releases/tag/v1.1.5) |
 | [Sellermax Product Downloads](#sellermax-product-downloads) | 1.7.7 | PDF-/Medien-Downloads pro Produkt | [Repo](https://github.com/teris/SellermaxProductDownloads) | [v1.7.7](https://github.com/teris/SellermaxProductDownloads/releases/tag/v1.7.7) |
 | [Sellermax Form Builder](#sellermax-form-builder) | 1.3.6 | Formulare mit Flow-Builder-Anbindung | [Repo](https://github.com/teris/SellermaxFormBuilder) | [v1.3.6](https://github.com/teris/SellermaxFormBuilder/releases/tag/v1.3.6) |
-| [Sellermax Subscription](#sellermax-subscription) | 1.2.6 | Abo-Pläne & Wiederholungsbestellungen | [Repo](https://github.com/teris/SellermaxSubscription) | [v1.2.6](https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.6) |
+| [Sellermax Subscription](#sellermax-subscription) | 1.2.7 | Abo-Pläne & Wiederholungsbestellungen | [Repo](https://github.com/teris/SellermaxSubscription) | [v1.2.7](https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.7) |
 | [Sellermax Product Labels](#sellermax-product-labels) | 1.0.3 | Produkt-Labels/Badges mit Positionssteuerung | [Repo](https://github.com/teris/SellermaxProductLabels) | [v1.0.3](https://github.com/teris/SellermaxProductLabels/releases/tag/v1.0.3) |
 
 ---
