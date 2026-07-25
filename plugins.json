@@ -73,9 +73,9 @@
     {
       "name": "SellermaxSubscription",
       "composer": "sellermax/subscription",
-      "version": "1.2.2",
+      "version": "1.2.4",
       "repository": "https://github.com/teris/SellermaxSubscription",
-      "release": "https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.2"
+      "release": "https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.4"
     },
     {
       "name": "SellermaxProductLabels",
