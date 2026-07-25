@@ -1,96 +1,98 @@
-{
-  "name": "Shopware Plugins",
-  "description": "Übersicht der Sellermax Shopware 6 Plugins",
-  "live": "https://www.sellermax.de",
-  "copyright": "Orga Consult – in Teamarbeit mit Seller Max GmbH",
-  "updated": "2026-07-24",
-  "plugins": [
-    {
-      "name": "SellermaxGithubPlugins",
-      "composer": "sellermax/github-plugins",
-      "version": "1.0.3",
-      "repository": "https://github.com/teris/SellermaxGithubPlugins",
-      "release": "https://github.com/teris/SellermaxGithubPlugins/releases/tag/v1.0.3",
-      "note": "Manuell zuerst installieren – verwaltet die übrigen Plugins im Admin"
-    },
-    {
-      "name": "SellermaxInfiniteScroll",
-      "composer": "sellermax/infinite-scroll",
-      "version": "0.2.2",
-      "repository": "https://github.com/teris/SellermaxInfiniteScroll",
-      "release": "https://github.com/teris/SellermaxInfiniteScroll/releases/tag/v0.2.2"
-    },
-    {
-      "name": "SellermaxOptimizeListing",
-      "composer": "sellermax/optimize-listing",
-      "version": "1.0.7",
-      "repository": "https://github.com/teris/SellermaxOptimizeListing",
-      "release": "https://github.com/teris/SellermaxOptimizeListing/releases/tag/v1.0.7",
-      "requires": ["sellermax/infinite-scroll"]
-    },
-    {
-      "name": "SellermaxCustomNavigation",
-      "composer": "sellermax/custom-navigation",
-      "version": "1.1.4",
-      "repository": "https://github.com/teris/SellermaxCustomNavigation",
-      "release": "https://github.com/teris/SellermaxCustomNavigation/releases/tag/v1.1.4"
-    },
-    {
-      "name": "SellermaxListingQuickBuy",
-      "composer": "sellermax/listing-quick-buy",
-      "version": "1.3.4",
-      "repository": "https://github.com/teris/SellermaxListingQuickBuy",
-      "release": "https://github.com/teris/SellermaxListingQuickBuy/releases/tag/v1.3.4"
-    },
-    {
-      "name": "SellermaxCrossSellingEnhance",
-      "composer": "sellermax/cross-selling-enhance",
-      "version": "1.2.2",
-      "repository": "https://github.com/teris/SellermaxCrossSellingEnhance",
-      "release": "https://github.com/teris/SellermaxCrossSellingEnhance/releases/tag/v1.2.2"
-    },
-    {
-      "name": "SellermaxProductCustomTabs",
-      "composer": "sellermax/product-custom-tabs",
-      "version": "1.1.5",
-      "repository": "https://github.com/teris/SellermaxProductCustomTabs",
-      "release": "https://github.com/teris/SellermaxProductCustomTabs/releases/tag/v1.1.5"
-    },
-    {
-      "name": "SellermaxProductDownloads",
-      "composer": "sellermax/product-downloads",
-      "version": "1.7.7",
-      "repository": "https://github.com/teris/SellermaxProductDownloads",
-      "release": "https://github.com/teris/SellermaxProductDownloads/releases/tag/v1.7.7"
-    },
-    {
-      "name": "SellermaxFormBuilder",
-      "composer": "sellermax/form-builder",
-      "version": "1.3.6",
-      "repository": "https://github.com/teris/SellermaxFormBuilder",
-      "release": "https://github.com/teris/SellermaxFormBuilder/releases/tag/v1.3.6"
-    },
-    {
-      "name": "SellermaxSubscription",
-      "composer": "sellermax/subscription",
-      "version": "1.2.6",
-      "repository": "https://github.com/teris/SellermaxSubscription",
-      "release": "https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.6"
-    },
-    {
-      "name": "SellermaxProductLabels",
-      "composer": "sellermax/product-labels",
-      "version": "1.0.3",
-      "repository": "https://github.com/teris/SellermaxProductLabels",
-      "release": "https://github.com/teris/SellermaxProductLabels/releases/tag/v1.0.3"
-    },
-    {
-      "name": "SellermaxTheme",
-      "composer": "sellermax/theme",
-      "version": "1.5.5",
-      "repository": "https://github.com/teris/SellermaxTheme",
-      "release": "https://github.com/teris/SellermaxTheme/releases/tag/v1.5.5",
-      "note": "Storefront-Theme – nach Installation dem Verkaufskanal zuweisen und theme:compile"
-    }
-  ]
+﻿{
+    "name":  "Shopware Plugins",
+    "description":  "Übersicht der Sellermax Shopware 6 Plugins",
+    "live":  "https://www.sellermax.de",
+    "copyright":  "Orga Consult – in Teamarbeit mit Seller Max GmbH",
+    "updated":  "2026-07-24",
+    "plugins":  [
+                    {
+                        "name":  "SellermaxGithubPlugins",
+                        "composer":  "sellermax/github-plugins",
+                        "version":  "1.0.3",
+                        "repository":  "https://github.com/teris/SellermaxGithubPlugins",
+                        "release":  "https://github.com/teris/SellermaxGithubPlugins/releases/tag/v1.0.3",
+                        "note":  "Manuell zuerst installieren – verwaltet die übrigen Plugins im Admin"
+                    },
+                    {
+                        "name":  "SellermaxInfiniteScroll",
+                        "composer":  "sellermax/infinite-scroll",
+                        "version":  "0.2.2",
+                        "repository":  "https://github.com/teris/SellermaxInfiniteScroll",
+                        "release":  "https://github.com/teris/SellermaxInfiniteScroll/releases/tag/v0.2.2"
+                    },
+                    {
+                        "name":  "SellermaxOptimizeListing",
+                        "composer":  "sellermax/optimize-listing",
+                        "version":  "1.0.7",
+                        "repository":  "https://github.com/teris/SellermaxOptimizeListing",
+                        "release":  "https://github.com/teris/SellermaxOptimizeListing/releases/tag/v1.0.7",
+                        "requires":  [
+                                         "sellermax/infinite-scroll"
+                                     ]
+                    },
+                    {
+                        "name":  "SellermaxCustomNavigation",
+                        "composer":  "sellermax/custom-navigation",
+                        "version":  "1.1.4",
+                        "repository":  "https://github.com/teris/SellermaxCustomNavigation",
+                        "release":  "https://github.com/teris/SellermaxCustomNavigation/releases/tag/v1.1.4"
+                    },
+                    {
+                        "name":  "SellermaxListingQuickBuy",
+                        "composer":  "sellermax/listing-quick-buy",
+                        "version":  "1.3.4",
+                        "repository":  "https://github.com/teris/SellermaxListingQuickBuy",
+                        "release":  "https://github.com/teris/SellermaxListingQuickBuy/releases/tag/v1.3.4"
+                    },
+                    {
+                        "name":  "SellermaxCrossSellingEnhance",
+                        "composer":  "sellermax/cross-selling-enhance",
+                        "version":  "1.2.2",
+                        "repository":  "https://github.com/teris/SellermaxCrossSellingEnhance",
+                        "release":  "https://github.com/teris/SellermaxCrossSellingEnhance/releases/tag/v1.2.2"
+                    },
+                    {
+                        "name":  "SellermaxProductCustomTabs",
+                        "composer":  "sellermax/product-custom-tabs",
+                        "version":  "1.1.5",
+                        "repository":  "https://github.com/teris/SellermaxProductCustomTabs",
+                        "release":  "https://github.com/teris/SellermaxProductCustomTabs/releases/tag/v1.1.5"
+                    },
+                    {
+                        "name":  "SellermaxProductDownloads",
+                        "composer":  "sellermax/product-downloads",
+                        "version":  "1.7.7",
+                        "repository":  "https://github.com/teris/SellermaxProductDownloads",
+                        "release":  "https://github.com/teris/SellermaxProductDownloads/releases/tag/v1.7.7"
+                    },
+                    {
+                        "name":  "SellermaxFormBuilder",
+                        "composer":  "sellermax/form-builder",
+                        "version":  "1.3.6",
+                        "repository":  "https://github.com/teris/SellermaxFormBuilder",
+                        "release":  "https://github.com/teris/SellermaxFormBuilder/releases/tag/v1.3.6"
+                    },
+                    {
+                        "name":  "SellermaxSubscription",
+                        "composer":  "sellermax/subscription",
+                        "version":  "1.2.6",
+                        "repository":  "https://github.com/teris/SellermaxSubscription",
+                        "release":  "https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.6"
+                    },
+                    {
+                        "name":  "SellermaxProductLabels",
+                        "composer":  "sellermax/product-labels",
+                        "version":  "1.0.3",
+                        "repository":  "https://github.com/teris/SellermaxProductLabels",
+                        "release":  "https://github.com/teris/SellermaxProductLabels/releases/tag/v1.0.3"
+                    },
+                    {
+                        "name":  "SellermaxTheme",
+                        "composer":  "sellermax/theme",
+                        "version":  "1.5.6",
+                        "repository":  "https://github.com/teris/SellermaxTheme",
+                        "release":  "https://github.com/teris/SellermaxTheme/releases/tag/v1.5.6",
+                        "note":  "Storefront-Theme – nach Installation dem Verkaufskanal zuweisen und theme:compile"
+                    }
+                ]
 }
