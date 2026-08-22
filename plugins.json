@@ -16,9 +16,9 @@
     {
       "name": "SellermaxInfiniteScroll",
       "composer": "sellermax/infinite-scroll",
-      "version": "0.2.2",
+      "version": "0.2.3",
       "repository": "https://github.com/teris/SellermaxInfiniteScroll",
-      "release": "https://github.com/teris/SellermaxInfiniteScroll/releases/tag/v0.2.2"
+      "release": "https://github.com/teris/SellermaxInfiniteScroll/releases/tag/v0.2.3"
     },
     {
       "name": "SellermaxOptimizeListing",
