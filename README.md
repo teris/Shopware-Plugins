@@ -21,7 +21,7 @@ Fertige Release-ZIPs werden als **GitHub Releases** in den jeweiligen Plugin-Rep
 | Plugin | Version | Kurzbeschreibung | Repository | Release |
 |--------|---------|------------------|------------|---------|
 | [Sellermax GitHub Plugin Manager](#sellermax-github-plugin-manager) | 1.0.3 | Plugins aus GitHub im Admin installieren/updaten | [Repo](https://github.com/teris/SellermaxGithubPlugins) | [v1.0.3](https://github.com/teris/SellermaxGithubPlugins/releases/tag/v1.0.3) |
-| [Sellermax Infinite Scroll](#sellermax-infinite-scroll) | 0.2.2 | Infinite Scroll für Kategorie-Listings | [Repo](https://github.com/teris/SellermaxInfiniteScroll) | [v0.2.2](https://github.com/teris/SellermaxInfiniteScroll/releases/tag/v0.2.2) |
+| [Sellermax Infinite Scroll](#sellermax-infinite-scroll) | 0.2.3 | Infinite Scroll für Kategorie-Listings | [Repo](https://github.com/teris/SellermaxInfiniteScroll) | [v0.2.3](https://github.com/teris/SellermaxInfiniteScroll/releases/tag/v0.2.2) |
 | [Sellermax Optimize Listing](#sellermax-optimize-listing) | 1.0.7 | Kategoriebaum- & Filter-Optimierung | [Repo](https://github.com/teris/SellermaxOptimizeListing) | [v1.0.7](https://github.com/teris/SellermaxOptimizeListing/releases/tag/v1.0.7) |
 | [Sellermax Custom Navigation](#sellermax-custom-navigation) | 1.1.4 | Konfigurierbare zweite Header-Navigation | [Repo](https://github.com/teris/SellermaxCustomNavigation) | [v1.1.4](https://github.com/teris/SellermaxCustomNavigation/releases/tag/v1.1.4) |
 | [Sellermax Listing Quick Buy](#sellermax-listing-quick-buy) | 1.3.4 | Direktkauf, Staffelpreise, Lageranzeige | [Repo](https://github.com/teris/SellermaxListingQuickBuy) | [v1.3.4](https://github.com/teris/SellermaxListingQuickBuy/releases/tag/v1.3.4) |
