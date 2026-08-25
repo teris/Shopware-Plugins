@@ -3,7 +3,7 @@
   "description": "Übersicht der Sellermax Shopware 6 Plugins",
   "live": "https://www.sellermax.de",
   "copyright": "Orga Consult – in Teamarbeit mit Seller Max GmbH",
-  "updated": "2026-07-24",
+  "updated": "2026-08-25",
   "plugins": [
     {
       "name": "SellermaxGithubPlugins",
@@ -85,6 +85,13 @@
       "version": "1.0.3",
       "repository": "https://github.com/teris/SellermaxProductLabels",
       "release": "https://github.com/teris/SellermaxProductLabels/releases/tag/v1.0.3"
+    },
+    {
+      "name": "SellermaxB2GQuote",
+      "composer": "sellermax/b2g-quote",
+      "version": "1.1.3",
+      "repository": "https://github.com/teris/SellermaxB2GQuote",
+      "release": "https://github.com/teris/SellermaxB2GQuote/releases/tag/v1.1.3"
     },
     {
       "name": "SellermaxTheme",
