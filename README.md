@@ -31,6 +31,7 @@ Fertige Release-ZIPs werden als **GitHub Releases** in den jeweiligen Plugin-Rep
 | [Sellermax Form Builder](#sellermax-form-builder) | 1.3.6 | Formulare mit Flow-Builder-Anbindung | [Repo](https://github.com/teris/SellermaxFormBuilder) | [v1.3.6](https://github.com/teris/SellermaxFormBuilder/releases/tag/v1.3.6) |
 | [Sellermax Subscription](#sellermax-subscription) | 1.2.7 | Abo-Pläne & Wiederholungsbestellungen | [Repo](https://github.com/teris/SellermaxSubscription) | [v1.2.7](https://github.com/teris/SellermaxSubscription/releases/tag/v1.2.7) |
 | [Sellermax Product Labels](#sellermax-product-labels) | 1.0.3 | Produkt-Labels/Badges mit Positionssteuerung | [Repo](https://github.com/teris/SellermaxProductLabels) | [v1.0.3](https://github.com/teris/SellermaxProductLabels/releases/tag/v1.0.3) |
+| [Sellermax B2G](#sellermaxb2gquote) | 1.0.3 | B2G/B2B-Angebotsworkflow | [Repo](https://github.com/teris/SellermaxB2GQuote) | [v1.0.3] (https://github.com/teris/SellermaxB2GQuote/releases/tag/v1.1.3) |
 
 ---
 
